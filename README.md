@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots of the project
+
+![screenshot1](./src/assets/memory-game1.png)
+![screenshot2](./src/assets/memory-game2.png)
+![screenshot3](./src/assets/memory-game3.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
